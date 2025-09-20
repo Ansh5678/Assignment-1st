@@ -3,8 +3,7 @@ This repository contains solutions for **Assignment 1** from Module 2: *Basic Py
 Task 1: Perform Basic Mathematical Operations
 - Takes two numbers as input.
 - Performs **Addition, Subtraction, Multiplication, Division**.
-- Handles division by zero error.
-- Displays results clearly.
+ - Displays results clearly.
 
 Run the script: Assignment1.py
 
